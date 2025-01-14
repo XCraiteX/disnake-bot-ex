@@ -10,7 +10,7 @@
 ## Installation
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/chatgpt-api-script.git
+git clone https://github.com/XCraiteX/disnake-bot-ex.git
 ```
 
 ### 2. Replace token in `settings.py`
